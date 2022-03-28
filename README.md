@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Lin</h1>
 <h3 align="center">A passionate machine learning developer and researcher from Taiwan</h3>
 
-![Hey there, I'm Cyristian!](https://www.canva.com/design/DAE8Q87MPLE/k731jVhqESS-c3KPpLbHOQ/watch?utm_content=DAE8Q87MPLE&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![Hey there, I'm Cyristian!](https://media.giphy.com/media/MzTSvteIW8kzsPj9pk/giphy.gif)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlin0420&label=Profile%20views&color=0e75b6&style=flat" alt="christianlin0420" /> </p>
 
