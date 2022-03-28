@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian Lin</h1>
 <h3 align="center">A passionate machine learning developer and researcher from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlin0420&label=Profile%20views&color=0e75b6&style=flat" alt="christianlin0420" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlin0420&label=Profile%20views&color=0e75b6&style=flat" alt="christianlin0420" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianlin0420" alt="christianlin0420" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianlin0420" alt="christianlin0420" /></a> </p> -->
 
 - 🔭 I’m currently working on [Simulating-Brain-signal-to-control-Hand-Movement-using-GPT2](https://github.com/ChristianLin0420/Simulating-Brain-signal-to-control-Hand-Movement-using-GPT2)
 
