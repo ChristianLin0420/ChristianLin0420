@@ -4,12 +4,28 @@
 ![Hey there, I'm Cyristian!](https://media.giphy.com/media/MzTSvteIW8kzsPj9pk/giphy.gif)
 
 ## WHO AM I ?
+Passionate and energetic computer science student, who wants to work with other people to do something different. Having ability to deal with difficulty efficiently and think logically. I also had lots of research and pratical real work experience.
 
 ## MY EXPERIENCES
+### Machine Learning Teaching Assistant --- 2021.Sep - 2022.Feb
+- Generated new form of assignments to make students better understand the kernel concept of Machine Learning.
+- Assist students to find out new topic of machine learning in application and help them overcome the obstacles.
+
+### HMI Laboratory Researchers --- 2020.Sep - Present
+- Refactored the GPT2 model to fit the brain Electroencephalography signal so that it could generate synthetic brain signal and help the classifier with 25% more accuracy compared with current researches.
+- Combined GPT2 model with discriminator, which we call it GPT2xCNN architecture to improve the quality with of the generated signal.
+
+### Lisa Laboratory Researchers --- 2021.Sep - Present
+- Studied recent advanced multi-agent reinforcement learning researches with range of transfer learning, monotonicity and reward factorization.
+
+### ShengShing iOS Developer --- 2018.Aug - 2021.Jan
+- Implemented customers acquirements with high-efficiency.
+- Applied BLE protocol to connect application with the device to monitor users’ health condition.
+- Analyzed the MIDI file format and create custom package to read the MIDI file with particular purpose.
 
 ## CURRENT WORKS & CONTACT INFORMATION
 
-- 🔭 I’m currently working on [Simulating-Brain-signal-to-control-Hand-Movement-using-GPT2](https://github.com/ChristianLin0420/Simulating-Brain-signal-to-control-Hand-Movement-using-GPT2)
+- 🔭 I’m currently working on [Simulating-Brain-signal-to-control-Hand-Movement-using-GPT2](https://github.com/ChristianLin0420/Simulating-Brain-signal-to-control-Hand-Movement-using-GPT2) & [universalMARL](https://github.com/ChristianLin0420/universalMARL)
 
 - 🌱 I’m currently learning **Multi-agent reinforcement learning, Robotic control and Deep learning**
 
