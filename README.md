@@ -7,11 +7,14 @@
 Passionate and energetic computer science student, who wants to work with other people to do something different. Having ability to deal with difficulty efficiently and think logically. I also had lots of research and pratical real work experience.
 
 ## MY EXPERIENCES
+### Microsoft Research and Development Intern, CSU team --- 2022.Aug - Present
+- Connect Azure service using ASP.NET as backend and Javascipt as frontend to apply the architect solution requested by TSMC.
+
 ### Machine Learning Teaching Assistant --- 2021.Sep - 2022.Feb
 - Generated new form of assignments to make students better understand the kernel concept of Machine Learning.
 - Assist students to find out new topic of machine learning in application and help them overcome the obstacles.
 
-### HMI Laboratory Researchers --- 2020.Sep - Present
+### HMI Laboratory Researchers --- 2020.Sep - 2022.Aug
 - Refactored the GPT2 model to fit the brain Electroencephalography signal so that it could generate synthetic brain signal and help the classifier with 25% more accuracy compared with current researches.
 - Combined GPT2 model with discriminator, which we call it GPT2xCNN architecture to improve the quality with of the generated signal.
 
