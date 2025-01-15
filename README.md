@@ -1,34 +1,37 @@
 <h1 align="center">Hi 👋, I'm Christian Lin</h1>
-<h3 align="center">A passionate machine learning developer and researcher from Taiwan</h3>
+<h3 align="center">A passionate Machine Learning Engineer and Researcher from Taiwan</h3>
 
 ![Hey there, I'm Cyristian!](https://media.giphy.com/media/MzTSvteIW8kzsPj9pk/giphy.gif)
 
 ## WHO AM I ?
-Passionate and energetic computer science student, who wants to work with other people to do something different. Having ability to deal with difficulty efficiently and think logically. I also had lots of research and pratical real work experience.
+A dedicated Machine Learning Engineer with a strong academic background from National Tsing Hua University (Master's GPA: 3.99). I specialize in developing scalable ML solutions and have experience in both cutting-edge research and practical applications. Currently pursuing research exchange at UCLA, I'm passionate about pushing the boundaries of AI technology through collaborative innovation.
 
 ## MY EXPERIENCES
-### Microsoft Research and Development Intern, CSU team --- 2022.Aug - Present
-- Connect Azure service using ASP.NET as backend and Javascipt as frontend to apply the architect solution requested by TSMC.
+### Machine Learning Engineer, NVIDIA --- 2025.Mar - Present
+- Currently contributing to NVIDIA's machine learning initiatives
 
-### Machine Learning Teaching Assistant --- 2021.Sep - 2022.Feb
-- Generated new form of assignments to make students better understand the kernel concept of Machine Learning.
-- Assist students to find out new topic of machine learning in application and help them overcome the obstacles.
+## Machine Learning Engineer Intern, Google --- 2023.Jul - 2023.Oct
+- Developed a high-performance Convolutional-Recurrent model for touchpad gesture and mouse movement recognition
+- Achieved 98% average accuracy with optimized memory usage using TensorRT
+- Built end-to-end ML pipeline using TensorFlow's C++ API for rapid development and deployment
 
-### HMI Laboratory Researchers --- 2020.Sep - 2022.Aug
-- Refactored the GPT2 model to fit the brain Electroencephalography signal so that it could generate synthetic brain signal and help the classifier with 25% more accuracy compared with current researches.
-- Combined GPT2 model with discriminator, which we call it GPT2xCNN architecture to improve the quality with of the generated signal.
+## Cloud Solution Architect Intern, Microsoft --- 2022.Aug - 2023.Jun
+- Integrated Azure Cognitive Services and OpenAI services (GPT-3.5, GPT-4) into enterprise solutions
+- Optimized Large Language Models using DeepSpeed framework for enhanced production efficiency
+- Implemented custom solutions for Microsoft Teams using Azure OpenAI services
 
-### Lisa Laboratory Researchers --- 2021.Sep - Present
-- Studied recent advanced multi-agent reinforcement learning researches with range of transfer learning, monotonicity and reward factorization.
+## ELSA Laboratory Researcher, NTHU --- 2021.Sep - 2024.Dec
+- Developed "Transfermer," a novel Transformer-based MARL framework achieving 50% improved training efficiency
+- Integrated few-shot and zero-shot learning techniques into pre-trained Multi-agent Reinforcement Learning models
 
-### ShengShing iOS Developer --- 2018.Aug - 2021.Jan
-- Implemented customers acquirements with high-efficiency.
-- Applied BLE protocol to connect application with the device to monitor users’ health condition.
-- Analyzed the MIDI file format and create custom package to read the MIDI file with particular purpose.
+## HMI Laboratory Researcher, NTHU --- 2020.Sep - 2022.Aug
+- Advanced brain signal simulation using GPT2 model, achieving 25% improved accuracy
+- Developed innovative GPT2xCNN architecture for enhanced signal generation quality
+
+## PUBLICATIONS
+"HGAP: Boosting Permutation Invariant and Permutation Equivariant in Multi-Agent Reinforcement Learning via Graph Attention Network" (ICML 2024, First Author)
 
 ## CURRENT WORKS & CONTACT INFORMATION
-
-- 🔭 I’m currently working on [Simulating-Brain-signal-to-control-Hand-Movement-using-GPT2](https://github.com/ChristianLin0420/Simulating-Brain-signal-to-control-Hand-Movement-using-GPT2) & [universalMARL](https://github.com/ChristianLin0420/universalMARL)
 
 - 🌱 I’m currently learning **Multi-agent reinforcement learning, Robotic control and Deep learning**
 
@@ -39,6 +42,13 @@ Passionate and energetic computer science student, who wants to work with other 
 - 📫 How to reach me **crlc112358@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Wo7asiI1xl6x8zAvql2R1EpF1esoVMRu/view?usp=sharing](https://drive.google.com/file/d/1Wo7asiI1xl6x8zAvql2R1EpF1esoVMRu/view?usp=sharing)
+
+## CERTIFICATIONS
+
+- Deep Learning Specialization (DeepLearning.AI)
+- TensorFlow: Advanced Techniques Specialization (DeepLearning.AI)
+- Getting Started with Accelerated Computing in CUDA C/C++ (Nvidia)
+- Project Management Specialization (Google)
 
 - **Love to learn neuroscience in order to create a real AI!!!!**
 
