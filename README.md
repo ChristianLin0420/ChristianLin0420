@@ -4,21 +4,29 @@
 ![Hey there, I'm Cyristian!](https://media.giphy.com/media/MzTSvteIW8kzsPj9pk/giphy.gif)
 
 ## WHO AM I ?
-A dedicated Machine Learning Engineer with a strong academic background from National Tsing Hua University (Master's GPA: 3.99). I specialize in developing scalable ML solutions and have experience in both cutting-edge research and practical applications. Currently pursuing research exchange at UCLA, I'm passionate about pushing the boundaries of AI technology through collaborative innovation.
+Passionate and dedicated Machine Learning Engineer, specializing in developing scalable ML solutions. Proficient in tackling complex challenges through efficient problem-solving. Experienced in both research
+and practical applications, with a strong focus on collaboration to drive innovative outcomes.
 
 ## MY EXPERIENCES
 ### Machine Learning Engineer, NVIDIA --- 2025.Mar - Present
-- Currently contributing to NVIDIA's machine learning initiatives
+- Finetuned various VLM including NVILA, Qwen2.5VL, and LlAVA using GRPO on video understanding tasks,
+especially industrial aspects with 54% improvement especially on instance actions.
+- Utilized temporal grounding model LITA for few shot video fine-tuning on industrial datasets using reinforcement
+learning policy optimization methods and gained the IOU with 35%.
 
 ## Machine Learning Engineer Intern, Google --- 2023.Jul - 2023.Oct
-- Developed a high-performance Convolutional-Recurrent model for touchpad gesture and mouse movement recognition
-- Achieved 98% average accuracy with optimized memory usage using TensorRT
-- Built end-to-end ML pipeline using TensorFlow's C++ API for rapid development and deployment
+- Developed a Convolutional-Recurrent model using C++ and Python for touchpad gesture and mouse movement
+recognition, and applied TensorRT to optimize and deploy the model to internal tools with real-time response.
+- Achieved an impressive average accuracy of 98% with the proposed classification model with low memory usage.
+- Leveraged Tensorflow's C++ API for end-to-end processes: from dataset curation, model design, model
+optimization, model deployment. The pipeline can be migrated to various scenarios for quick development.
 
 ## Cloud Solution Architect Intern, Microsoft --- 2022.Aug - 2023.Jun
-- Integrated Azure Cognitive Services and OpenAI services (GPT-3.5, GPT-4) into enterprise solutions
-- Optimized Large Language Models using DeepSpeed framework for enhanced production efficiency
-- Implemented custom solutions for Microsoft Teams using Azure OpenAI services
+- Integrated Azure Cognitive Service with PoC for cost-effectiveness and efficiency to meet customer needs.
+- Finetuned Large-Language Models (Opt-models) utilizing the DeepSpeed framework on proprietary enterprise
+datasets, enhancing production efficiency for internal applications.
+- Incorporated Azure OpenAI services (GPT-3.5, GPT-4) into Microsoft Teams and conducted finetuning using client-
+provided datasets, bolstering communication efficacy.
 
 ## ELSA Laboratory Researcher, NTHU --- 2021.Sep - 2024.Dec
 - Developed "Transfermer," a novel Transformer-based MARL framework achieving 50% improved training efficiency
